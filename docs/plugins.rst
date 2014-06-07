@@ -84,3 +84,8 @@ Copyright plugin
 ================
 
 .. automodule:: sigal.plugins.copyright
+
+Feeds plugin
+============
+
+.. automodule:: sigal.plugins.feeds
